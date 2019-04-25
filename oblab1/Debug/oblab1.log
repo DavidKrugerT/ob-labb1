@@ -1,0 +1,9 @@
+﻿  main.cpp
+  person.cpp
+c:\users\david\source\repos\oblab1\oblab1\person.cpp(81): warning C4244: '=': conversion from 'wint_t' to '_Elem', possible loss of data
+          with
+          [
+              _Elem=char
+          ]
+  Generating Code...
+  oblab1.vcxproj -> C:\Users\David\source\repos\oblab1\Debug\oblab1.exe
